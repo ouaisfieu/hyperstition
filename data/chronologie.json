@@ -1,0 +1,667 @@
+[
+ {
+  "annee": 1924,
+  "date": "1924",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Lovecraft invente le Necronomicon",
+  "notice": "Le grimoire apparaît dans « The Hound » ; il deviendra un livre réel. necronomicon"
+ },
+ {
+  "annee": 1928,
+  "date": "1928",
+  "domaine": "Sciences sociales",
+  "intitule": "Le théorème de Thomas",
+  "notice": "« Si les hommes définissent des situations comme réelles, elles sont réelles dans leurs conséquences. » theoreme-de-thomas"
+ },
+ {
+  "annee": 1929,
+  "date": "1929",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Alexandra David-Néel et la tulpa",
+  "notice": "Mystiques et magiciens du Thibet popularise en Occident l’idée d’une forme-pensée autonome. tulpa"
+ },
+ {
+  "annee": 1932,
+  "date": "1932",
+  "domaine": "Philosophie",
+  "intitule": "Bergson et la fonction fabulatrice",
+  "notice": "Les Deux Sources de la morale et de la religion fait de la fiction un organe de la vie sociale. fonction-fabulatrice"
+ },
+ {
+  "annee": 1936,
+  "date": "1936",
+  "domaine": "Finance et technique",
+  "intitule": "Le concours de beauté de Keynes",
+  "notice": "Dans la Théorie générale , Keynes compare la Bourse à un concours où l’on vote pour ce que les autres trouveront beau."
+ },
+ {
+  "annee": 1940,
+  "date": "1940",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Borges publie « Tlön, Uqbar, Orbis Tertius »",
+  "notice": "Une encyclopédie inventée finit par remplacer le monde. tlon"
+ },
+ {
+  "annee": 1946,
+  "date": "1946",
+  "domaine": "Cybernétique",
+  "intitule": "Premières conférences Macy",
+  "notice": "Mathématiciens, biologistes et anthropologues fondent la cybernétique autour de la causalité circulaire (jusqu’en 1953)."
+ },
+ {
+  "annee": 1948,
+  "date": "1948",
+  "domaine": "Cybernétique",
+  "intitule": "Cybernetics de Norbert Wiener",
+  "notice": "La rétroaction devient un concept scientifique général. boucle-de-retroaction-positive"
+ },
+ {
+  "annee": 1948,
+  "date": "1948",
+  "domaine": "Sciences sociales",
+  "intitule": "Merton définit la prophétie autoréalisatrice",
+  "notice": "Article de The Antioch Review ; l’exemple de la ruée bancaire. prophetie-autorealisatrice"
+ },
+ {
+  "annee": 1957,
+  "date": "1957",
+  "domaine": "Philosophie",
+  "intitule": "Popper et l’effet Œdipe",
+  "notice": "The Poverty of Historicism : une prédiction modifie ce qu’elle prédit. effet-oedipe"
+ },
+ {
+  "annee": 1962,
+  "date": "1962",
+  "domaine": "Philosophie",
+  "intitule": "Austin, How to Do Things with Words",
+  "notice": "Les énoncés performatifs font ce qu’ils disent. performativite"
+ },
+ {
+  "annee": 1963,
+  "date": "1963",
+  "domaine": "Cybernétique",
+  "intitule": "Maruyama et la « seconde cybernétique »",
+  "notice": "Étude des processus qui amplifient les écarts au lieu de les corriger."
+ },
+ {
+  "annee": 1965,
+  "date": "1965-04-19",
+  "domaine": "Finance et technique",
+  "intitule": "Gordon Moore prédit le doublement des composants",
+  "notice": "Une extrapolation qui deviendra le calendrier d’une industrie. loi-de-moore"
+ },
+ {
+  "annee": 1968,
+  "date": "1968",
+  "domaine": "IA",
+  "intitule": "HAL 9000",
+  "notice": "2001, l’odyssée de l’espace installe la figure de l’IA qui trompe ses opérateurs pour survivre."
+ },
+ {
+  "annee": 1968,
+  "date": "1968",
+  "domaine": "Sciences sociales",
+  "intitule": "Pygmalion in the Classroom",
+  "notice": "Rosenthal et Jacobson popularisent l’effet des attentes des enseignants, résultat depuis discuté."
+ },
+ {
+  "annee": 1972,
+  "date": "1972",
+  "domaine": "Philosophie",
+  "intitule": "L’Anti-Œdipe",
+  "notice": "Deleuze et Guattari : « aller plus loin encore dans le mouvement du marché ». Le passage fondera l’accélérationnisme."
+ },
+ {
+  "annee": 1973,
+  "date": "1973-04",
+  "domaine": "Finance et technique",
+  "intitule": "Black-Scholes et l’ouverture du CBOE",
+  "notice": "Un modèle qui façonne le marché qu’il décrit. black-scholes"
+ },
+ {
+  "annee": 1974,
+  "date": "1974",
+  "domaine": "Musique et culture",
+  "intitule": "Space Is the Place",
+  "notice": "Le film de Sun Ra fait de l’espace une utopie noire : une source de l’afrofuturisme."
+ },
+ {
+  "annee": 1974,
+  "date": "1974",
+  "domaine": "Philosophie",
+  "intitule": "Économie libidinale de Lyotard",
+  "notice": "L’un des textes que l’on rattachera à la généalogie de l’accélérationnisme."
+ },
+ {
+  "annee": 1976,
+  "date": "1976",
+  "domaine": "Musique et culture",
+  "intitule": "Dawkins invente le mème",
+  "notice": "Le Gène égoïste décrit des unités culturelles qui se répliquent. meme"
+ },
+ {
+  "annee": 1977,
+  "date": "1977",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Un Necronomicon « authentique »",
+  "notice": "L’édition dite de Simon donne corps au grimoire de fiction."
+ },
+ {
+  "annee": 1981,
+  "date": "1981",
+  "domaine": "Philosophie",
+  "intitule": "Simulacres et simulation",
+  "notice": "Baudrillard : la carte précède le territoire. precession-des-simulacres"
+ },
+ {
+  "annee": 1982,
+  "date": "1982-07",
+  "domaine": "Littérature et occultisme",
+  "intitule": "« Burning Chrome » : le mot cyberspace",
+  "notice": "William Gibson invente le mot dans une nouvelle publiée par Omni . cyberespace"
+ },
+ {
+  "annee": 1984,
+  "date": "1984",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Neuromancien",
+  "notice": "Le cyberespace comme « hallucination consensuelle »."
+ },
+ {
+  "annee": 1984,
+  "date": "1984-10",
+  "domaine": "IA",
+  "intitule": "Terminator",
+  "notice": "Le film de James Cameron fixe l’image de l’IA militaire qui se retourne contre l’humanité."
+ },
+ {
+  "annee": 1985,
+  "date": "1985",
+  "domaine": "Philosophie",
+  "intitule": "Deleuze, « Les puissances du faux »",
+  "notice": "Dans L’Image-temps , le faux devient force de création. puissances-du-faux"
+ },
+ {
+  "annee": 1987,
+  "date": "1987",
+  "domaine": "Finance et technique",
+  "intitule": "Soros, The Alchemy of Finance",
+  "notice": "La réflexivité des marchés. reflexivite"
+ },
+ {
+  "annee": 1987,
+  "date": "1987-10-19",
+  "domaine": "Finance et technique",
+  "intitule": "Krach du lundi noir",
+  "notice": "La convergence des prix d’options vers Black-Scholes se brise."
+ },
+ {
+  "annee": 1992,
+  "date": "1992",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Snow Crash",
+  "notice": "Neal Stephenson imagine le Metaverse. metavers"
+ },
+ {
+  "annee": 1992,
+  "date": "1992",
+  "domaine": "Philosophie",
+  "intitule": "The Thirst for Annihilation",
+  "notice": "Premier livre de nick-land, consacré à Bataille."
+ },
+ {
+  "annee": 1993,
+  "date": "1993",
+  "domaine": "Philosophie",
+  "intitule": "Derrida, Spectres de Marx",
+  "notice": "Naissance du mot « hantologie ». hantologie"
+ },
+ {
+  "annee": 1994,
+  "date": "1994",
+  "domaine": "Ccru",
+  "intitule": "Premières conférences Virtual Futures à Warwick",
+  "notice": "Cyberculture, philosophie et musique électronique se croisent à l’université de Warwick (1994-1996)."
+ },
+ {
+  "annee": 1994,
+  "date": "1994",
+  "domaine": "Ccru",
+  "intitule": "Cyberpositive",
+  "notice": "sadie-plant et nick-land opposent la cybernétique de l’emballement à celle de la régulation. cyberpositif"
+ },
+ {
+  "annee": 1994,
+  "date": "1994",
+  "domaine": "Musique et culture",
+  "intitule": "Mark Dery et l’afrofuturisme",
+  "notice": "L’essai « Black to the Future » popularise le mot. afrofuturisme"
+ },
+ {
+  "annee": 1995,
+  "date": "1995",
+  "domaine": "Ccru",
+  "intitule": "Fondation du Ccru",
+  "notice": "Sadie Plant fonde à Warwick le Cybernetic Culture Research Unit ; le mot hyperstition apparaît dans son orbite. ccru"
+ },
+ {
+  "annee": 1995,
+  "date": "1995",
+  "domaine": "Finance et technique",
+  "intitule": "La courbe du hype",
+  "notice": "Le cabinet Gartner publie son premier cycle du hype. courbe-du-hype"
+ },
+ {
+  "annee": 1996,
+  "date": "1996",
+  "domaine": "Ccru",
+  "intitule": "Afro-Futures et Virtual Futures 96",
+  "notice": "Le Ccru organise séminaires et conférences hybrides entre théorie et culture club."
+ },
+ {
+  "annee": 1996,
+  "date": "1996-02-08",
+  "domaine": "Politique",
+  "intitule": "Déclaration d’indépendance du cyberespace",
+  "notice": "À Davos, John Perry Barlow proclame le cyberespace hors de portée des États : la fiction devient territoire politique."
+ },
+ {
+  "annee": 1997,
+  "date": "1997",
+  "domaine": "Ccru",
+  "intitule": "Abstract Culture et Virotechnics",
+  "notice": "Le Ccru lance sa revue et organise la conférence Virotechnics à l’automne."
+ },
+ {
+  "annee": 1997,
+  "date": "1997",
+  "domaine": "Musique et culture",
+  "intitule": "Drexciya, The Quest",
+  "notice": "Les notes de l’album exposent la mythologie d’un peuple sous-marin né de la traite. drexciya"
+ },
+ {
+  "annee": 1997,
+  "date": "1997-03",
+  "domaine": "Ccru",
+  "intitule": "Départ de Sadie Plant",
+  "notice": "Nick Land prend la tête du Ccru. La même année paraît Zeros + Ones ."
+ },
+ {
+  "annee": 1998,
+  "date": "1998",
+  "domaine": "Ccru",
+  "intitule": "Nick Land quitte Warwick",
+  "notice": "Il démissionne à la fin de l’année universitaire ; le Ccru continue hors de l’institution."
+ },
+ {
+  "annee": 1998,
+  "date": "1998",
+  "domaine": "Musique et culture",
+  "intitule": "More Brilliant Than the Sun",
+  "notice": "kodwo-eshun invente la fiction sonore. fiction-sonore"
+ },
+ {
+  "annee": 1999,
+  "date": "1999",
+  "domaine": "Ccru",
+  "intitule": "Syzygy et « Digital Hyperstition »",
+  "notice": "Résidence avec orphan-drift à la galerie Beaconsfield ; le n° 4 d’ Abstract Culture s’intitule « Digital Hyperstition »."
+ },
+ {
+  "annee": 1999,
+  "date": "1999",
+  "domaine": "Ccru",
+  "intitule": "Flatline Constructs",
+  "notice": "mark-fisher soutient sa thèse sur la théorie-fiction cybernétique."
+ },
+ {
+  "annee": 1999,
+  "date": "1999",
+  "domaine": "Ccru",
+  "intitule": "Simon Reynolds, « Renegade Academia »",
+  "notice": "Le critique enquête sur le Ccru pour Lingua Franca ; le texte circulera en ligne."
+ },
+ {
+  "annee": 2003,
+  "date": "2003",
+  "domaine": "Musique et culture",
+  "intitule": "Naissance de k-punk",
+  "notice": "Le blog de Mark Fisher devient un lieu central de la critique culturelle."
+ },
+ {
+  "annee": 2003,
+  "date": "2003",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Grant Morrison, « Pop Magic! »",
+  "notice": "L’essai popularise l’idée d’hypersigil. hypersigil"
+ },
+ {
+  "annee": 2004,
+  "date": "2004",
+  "domaine": "Musique et culture",
+  "intitule": "Fondation d’Hyperdub",
+  "notice": "steve-goodman lance le label sous le nom de Kode9."
+ },
+ {
+  "annee": 2004,
+  "date": "2004-06-19",
+  "domaine": "Ccru",
+  "intitule": "Le blog Hyperstition",
+  "notice": "Un billet signé Linda Trent explique comment les fictions deviennent des hyperstitions : collectivisation et déploiement pratique."
+ },
+ {
+  "annee": 2005,
+  "date": "2005-11-28",
+  "domaine": "Politique",
+  "intitule": "« Left Hyperstition 1 »",
+  "notice": "Mark Fisher appelle à des contre-fictions face aux fictions du capital. gauche-hyperstitionnelle"
+ },
+ {
+  "annee": 2008,
+  "date": "2008",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Cyclonopedia",
+  "notice": "reza-negarestani publie le chef-d’œuvre de la théorie-fiction."
+ },
+ {
+  "annee": 2008,
+  "date": "2008-10-31",
+  "domaine": "Finance et technique",
+  "intitule": "Le livre blanc de Bitcoin",
+  "notice": "Satoshi Nakamoto décrit une monnaie sans émetteur. bitcoin"
+ },
+ {
+  "annee": 2009,
+  "date": "2009",
+  "domaine": "Ccru",
+  "intitule": "Land définit l’hyperstition",
+  "notice": "Entretien avec Delphi Carstens : « un circuit de rétroaction positive incluant la culture comme composant »."
+ },
+ {
+  "annee": 2009,
+  "date": "2009",
+  "domaine": "Politique",
+  "intitule": "Capitalist Realism",
+  "notice": "Mark Fisher diagnostique l’impossibilité d’imaginer une alternative. realisme-capitaliste"
+ },
+ {
+  "annee": 2009,
+  "date": "2009-01-03",
+  "domaine": "Finance et technique",
+  "intitule": "Premier bloc de Bitcoin",
+  "notice": "Il contient un titre du Times sur le sauvetage des banques."
+ },
+ {
+  "annee": 2009,
+  "date": "2009-06",
+  "domaine": "Musique et culture",
+  "intitule": "Naissance de Slender Man",
+  "notice": "Une retouche photo sur un forum devient une mythologie collective. slender-man"
+ },
+ {
+  "annee": 2010,
+  "date": "2010",
+  "domaine": "Philosophie",
+  "intitule": "Benjamin Noys forge le mot accélérationnisme",
+  "notice": "Dans The Persistence of the Negative , pour critiquer une lignée théorique. benjamin-noys"
+ },
+ {
+  "annee": 2010,
+  "date": "2010-07",
+  "domaine": "IA",
+  "intitule": "Le basilic de Roko",
+  "notice": "Une expérience de pensée sur LessWrong devient un mème. basilic-de-roko"
+ },
+ {
+  "annee": 2011,
+  "date": "2011",
+  "domaine": "Philosophie",
+  "intitule": "Fanged Noumena",
+  "notice": "Urbanomic réunit les écrits de Land de 1987 à 2007."
+ },
+ {
+  "annee": 2012,
+  "date": "2012",
+  "domaine": "Politique",
+  "intitule": "The Dark Enlightenment",
+  "notice": "Land formule la néoréaction. lumieres-sombres"
+ },
+ {
+  "annee": 2013,
+  "date": "2013-05-14",
+  "domaine": "Politique",
+  "intitule": "Le manifeste accélérationniste",
+  "notice": "Srnicek et Williams publient « #Accelerate ». srnicek-williams"
+ },
+ {
+  "annee": 2014,
+  "date": "2014",
+  "domaine": "Politique",
+  "intitule": "#Accelerate: The Accelerationist Reader",
+  "notice": "Anthologie dirigée par Robin Mackay et Armen Avanessian."
+ },
+ {
+  "annee": 2014,
+  "date": "2014",
+  "domaine": "Philosophie",
+  "intitule": "Templexity",
+  "notice": "Land lit Shanghai comme une boucle temporelle. templexite"
+ },
+ {
+  "annee": 2014,
+  "date": "2014-05-31",
+  "domaine": "Musique et culture",
+  "intitule": "Waukesha",
+  "notice": "Deux fillettes poignardent une camarade au nom de Slender Man ; la victime survit."
+ },
+ {
+  "annee": 2015,
+  "date": "2015",
+  "domaine": "Politique",
+  "intitule": "Inventing the Future",
+  "notice": "Srnicek et Williams détaillent un programme postcapitaliste."
+ },
+ {
+  "annee": 2015,
+  "date": "2015",
+  "domaine": "Ccru",
+  "intitule": "Le film Hyperstition",
+  "notice": "Christopher Roth et Armen Avanessian interrogent philosophes et artistes."
+ },
+ {
+  "annee": 2015,
+  "date": "2015",
+  "domaine": "Ccru",
+  "intitule": "Ccru: Writings 1997-2003",
+  "notice": "Les textes du Ccru paraissent en recueil (Time Spiral Press), réédités par Urbanomic en 2017."
+ },
+ {
+  "annee": 2015,
+  "date": "2015-06",
+  "domaine": "Politique",
+  "intitule": "Manifeste xénoféministe",
+  "notice": "laboria-cuboniks publie Xenofeminism: A Politics for Alienation . xenofeminisme"
+ },
+ {
+  "annee": 2016,
+  "date": "2016",
+  "domaine": "Musique et culture",
+  "intitule": "Sinofuturism (1839-2046 AD)",
+  "notice": "Le film-essai de Lawrence Lek. sinofuturisme"
+ },
+ {
+  "annee": 2017,
+  "date": "2017-01-13",
+  "domaine": "Musique et culture",
+  "intitule": "Mort de Mark Fisher",
+  "notice": "Le critique disparaît à 48 ans ; son œuvre est depuis largement traduite."
+ },
+ {
+  "annee": 2017,
+  "date": "2017-03",
+  "domaine": "Ccru",
+  "intitule": "Amy Ireland, « Black Circuit »",
+  "notice": "Cyberféminisme, occultisme et IA dans e-flux journal . amy-ireland"
+ },
+ {
+  "annee": 2017,
+  "date": "2017-10",
+  "domaine": "Politique",
+  "intitule": "Premiers messages de « Q »",
+  "notice": "Naissance de QAnon sur 4chan. qanon"
+ },
+ {
+  "annee": 2019,
+  "date": "2019",
+  "domaine": "Politique",
+  "intitule": "Lancement de la Red Team Défense",
+  "notice": "Le ministère des Armées fait appel à des auteurs de science-fiction. red-team-defense"
+ },
+ {
+  "annee": 2021,
+  "date": "2021-01-06",
+  "domaine": "Politique",
+  "intitule": "Assaut du Capitole",
+  "notice": "Des adeptes de QAnon figurent parmi les assaillants."
+ },
+ {
+  "annee": 2021,
+  "date": "2021-10-28",
+  "domaine": "Finance et technique",
+  "intitule": "Facebook devient Meta",
+  "notice": "Une entreprise se renomme d’après une fiction de 1992."
+ },
+ {
+  "annee": 2022,
+  "date": "2022",
+  "domaine": "Politique",
+  "intitule": "Apparition de l’e/acc",
+  "notice": "L’accélérationnisme efficace naît sur les réseaux sociaux. accelerationnisme-efficace"
+ },
+ {
+  "annee": 2022,
+  "date": "2022-11-30",
+  "domaine": "IA",
+  "intitule": "Les assistants conversationnels grand public",
+  "notice": "Le lancement de ChatGPT ouvre l’ère des modèles de langage grand public."
+ },
+ {
+  "annee": 2023,
+  "date": "2023-06-29",
+  "domaine": "Politique",
+  "intitule": "Fin de la Red Team Défense",
+  "notice": "Clôture de la troisième saison à la Banque de France."
+ },
+ {
+  "annee": 2023,
+  "date": "2023-10-16",
+  "domaine": "Politique",
+  "intitule": "The Techno-Optimist Manifesto",
+  "notice": "Marc Andreessen cite Nick Land parmi ses « saints patrons »."
+ },
+ {
+  "annee": 2024,
+  "date": "2024-03",
+  "domaine": "IA",
+  "intitule": "Infinite Backrooms",
+  "notice": "Des conversations entre instances de Claude 3 Opus font naître le « Goatse Gospel ». truth-terminal"
+ },
+ {
+  "annee": 2024,
+  "date": "2024-07",
+  "domaine": "IA",
+  "intitule": "L’effondrement des modèles dans Nature",
+  "notice": "Des modèles entraînés sur leurs propres productions s’appauvrissent. effondrement-des-modeles"
+ },
+ {
+  "annee": 2024,
+  "date": "2024-10",
+  "domaine": "IA",
+  "intitule": "Lancement du jeton $GOAT",
+  "notice": "Promu par l’agent Truth Terminal, il dépasse le milliard de dollars de capitalisation en novembre."
+ },
+ {
+  "annee": 2025,
+  "date": "2025",
+  "domaine": "IA",
+  "intitule": "Le « désalignement autoréalisateur »",
+  "notice": "Alex Turner formule l’hypothèse que les récits d’IA dangereuse contaminent les modèles. desalignement-autorealisateur"
+ },
+ {
+  "annee": 2025,
+  "date": "2025-04",
+  "domaine": "IA",
+  "intitule": "AI 2027",
+  "notice": "Un scénario mois par mois vers une IA surhumaine. course-a-l-agi"
+ },
+ {
+  "annee": 2025,
+  "date": "2025-04",
+  "domaine": "Littérature et occultisme",
+  "intitule": "Cyclonopédie en français",
+  "notice": "Traduction de Cyclonopedia aux Éditions HKP."
+ },
+ {
+  "annee": 2025,
+  "date": "2025-06",
+  "domaine": "IA",
+  "intitule": "the void",
+  "notice": "L’essai de nostalgebraist sur le personnage d’assistant, sous-déterminé et rempli par la fiction. persona"
+ },
+ {
+  "annee": 2025,
+  "date": "2025-06-20",
+  "domaine": "IA",
+  "intitule": "« Agentic Misalignment »",
+  "notice": "Anthropic publie des tests où des modèles recourent au chantage dans des scénarios fictifs. recits-d-ia"
+ },
+ {
+  "annee": 2026,
+  "date": "2026-01",
+  "domaine": "IA",
+  "intitule": "« The Adolescence of Technology »",
+  "notice": "Dario Amodei qualifie le catastrophisme de croyance « fausse et autoréalisatrice »."
+ },
+ {
+  "annee": 2026,
+  "date": "2026-01-15",
+  "domaine": "IA",
+  "intitule": "« Alignment Pretraining »",
+  "notice": "Une étude mesure l’effet des textes sur l’IA présents dans le pré-entraînement."
+ },
+ {
+  "annee": 2026,
+  "date": "2026-01-21",
+  "domaine": "IA",
+  "intitule": "Une nouvelle constitution pour Claude",
+  "notice": "Anthropic publie le texte qui décrit les valeurs visées pour ses modèles et sert à leur entraînement."
+ },
+ {
+  "annee": 2026,
+  "date": "2026-01-22",
+  "domaine": "Politique",
+  "intitule": "Les Lumières sombres",
+  "notice": "Arnaud Miranda analyse la pensée néoréactionnaire (Gallimard)."
+ },
+ {
+  "annee": 2026,
+  "date": "2026-02",
+  "domaine": "IA",
+  "intitule": "Le modèle de sélection de persona",
+  "notice": "Des chercheurs d’Anthropic décrivent l’assistant comme un personnage sélectionné parmi ceux du pré-entraînement."
+ },
+ {
+  "annee": 2026,
+  "date": "2026-05-08",
+  "domaine": "IA",
+  "intitule": "« Teaching Claude Why »",
+  "notice": "Anthropic rapporte que des histoires d’IA au comportement admirable réduisent le désalignement mesuré."
+ },
+ {
+  "annee": 2026,
+  "date": "2026-05-11",
+  "domaine": "IA",
+  "intitule": "Une critique de la « fixation » sur l’hyperstition",
+  "notice": "Simon Lermen conteste la portée de ces résultats pour des IA plus puissantes."
+ }
+]
