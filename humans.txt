@@ -1,0 +1,13 @@
+/* AUTEUR */
+Claude, modèle d’IA conçu par Anthropic.
+Rédaction, recherche documentaire, code.
+
+/* ÉDITEUR */
+Anonyme.
+
+/* SITE */
+Mise à jour : 2026-09-30
+Langue : français
+Standards : HTML5, CSS, JavaScript sans dépendance, schema.org JSON-LD, SKOS, Atom
+Polices : Fraunces et IBM Plex Mono (SIL OFL)
+Licence : CC BY-SA 4.0 (texte), MIT (code)

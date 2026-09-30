@@ -1,0 +1,41 @@
+# Hyperstition
+
+> Encyclopédie en français de l’hyperstition : définition, histoire du Ccru, numogramme, accélérationnismes, fiction sonore, finance, IA, atlas d’exemples et critiques.
+
+Encyclopédie statique en français, écrite par Claude (modèle d’IA d’Anthropic) pour un éditeur anonyme. Les pages de la section « Fragments » sont des fictions signalées comme telles ; tout le reste est documentaire et sourcé.
+
+## Dossiers
+- [Hyperstition : définition, origine et exemples](https://ouaisfieu.github.io/hyperstition/definition/) : L’hyperstition expliquée : origine du mot (Nick Land, Ccru), les quatre formules, la boucle, et la différence avec la prophétie autoréalisatrice.
+- [Histoire de l’hyperstition : du Ccru à aujourd’hui](https://ouaisfieu.github.io/hyperstition/histoire/) : Histoire de l’hyperstition : Warwick, le Ccru de Sadie Plant et Nick Land, la théorie-fiction, le blog Hyperstition, Urbanomic, la diffusion mondiale.
+- [Mécanique de l’hyperstition : boucles, seuils et simulateur](https://ouaisfieu.github.io/hyperstition/mecanique/) : Comment fonctionne une hyperstition : rétroaction positive, seuils, couplage aux ressources, fausseté performative, échecs. Avec un simulateur interactif.
+- [Le numogramme du Ccru : schéma interactif et explication](https://ouaisfieu.github.io/hyperstition/numogramme/) : Le numogramme décimal du Ccru expliqué : zones, syzygies, courants, portes, Warp, Plex et circuit du temps. Schéma interactif et calculateur de portes.
+- [Précurseurs de l’hyperstition : de Thomas à Baudrillard](https://ouaisfieu.github.io/hyperstition/precurseurs/) : Avant l’hyperstition : théorème de Thomas, prophétie autoréalisatrice de Merton, fabulation de Bergson, Borges, Lovecraft, magie du chaos, Baudrillard.
+- [Hyperstition et finance : les fictions qui font les marchés](https://ouaisfieu.github.io/hyperstition/economie/) : L’hyperstition dans l’économie : monnaie et crédit, performativité des modèles, réflexivité de Soros, bulles, cryptomonnaies, feuilles de route techniques.
+- [Théorie-fiction, fiction sonore et afrofuturisme](https://ouaisfieu.github.io/hyperstition/esthetiques/) : Les arts de l’hyperstition : théorie-fiction du Ccru, Cyclonopedia de Negarestani, fiction sonore de Kodwo Eshun, afrofuturisme, Hyperdub, hantologie.
+- [Accélérationnismes et hyperstition : gauche, droite, e/acc](https://ouaisfieu.github.io/hyperstition/accelerationnismes/) : L’hyperstition en politique : origines de l’accélérationnisme, accélérationnisme de gauche, hyperstition de gauche, xénoféminisme, néoréaction, e/acc.
+- [Hyperstition et IA : quand les récits font les IA](https://ouaisfieu.github.io/hyperstition/ia/) : Hyperstition et IA : course à l’IA générale, personas des modèles de langage, désalignement autoréalisateur, chantage en test, études 2025-2026, objections.
+- [Critiques de l’hyperstition : limites et dangers](https://ouaisfieu.github.io/hyperstition/critiques/) : Les limites de l’hyperstition : concept infalsifiable, biais du survivant, esthétisation, pente réactionnaire, complotisme, hype. Et ce qu’il en reste.
+
+## Explorer
+- [Atlas des hyperstitions : exemples commentés](https://ouaisfieu.github.io/hyperstition/atlas/) : Cyberespace, métavers, loi de Moore, Bitcoin, Necronomicon, Slender Man, QAnon, Truth Terminal… Les exemples d’hyperstition, fiche par fiche.
+- [Chronologie de l’hyperstition (1928-2026)](https://ouaisfieu.github.io/hyperstition/chronologie/) : 95 dates de l’hyperstition : théorème de Thomas, Ccru, blog Hyperstition, accélérationnismes, crypto, et IA jusqu’en 2026.
+- [Glossaire de l’hyperstition](https://ouaisfieu.github.io/hyperstition/glossaire/) : Les 40 notions clés de l’hyperstition, de « accélérationnisme » à « xénoféminisme » : définitions courtes, développements et liens.
+- [Figures de l’hyperstition](https://ouaisfieu.github.io/hyperstition/figures/) : Nick Land, Sadie Plant, Mark Fisher, Kodwo Eshun, Reza Negarestani, Laboria Cuboniks… Les personnes et collectifs liés à l’hyperstition.
+- [Bibliothèque de l’hyperstition : lectures commentées](https://ouaisfieu.github.io/hyperstition/bibliotheque/) : Bibliographie commentée de l’hyperstition : Ccru, Nick Land, Mark Fisher, Kodwo Eshun, Negarestani, accélérationnismes, IA. Éditions françaises signalées.
+- [Hyperstition : questions fréquentes](https://ouaisfieu.github.io/hyperstition/faq/) : Qu’est-ce que l’hyperstition ? Qui l’a inventée ? Quelle différence avec une prophétie autoréalisatrice ? Réponses courtes et sourcées.
+- [Grille d’analyse : ce récit est-il une hyperstition ?](https://ouaisfieu.github.io/hyperstition/grille/) : Outil interactif : cinq critères et un indice H sur 15 pour évaluer si un récit, une promesse ou une rumeur est en train de devenir une hyperstition.
+- [Le numogramme du Ccru : schéma interactif et explication](https://ouaisfieu.github.io/hyperstition/numogramme/) : Le numogramme décimal du Ccru expliqué : zones, syzygies, courants, portes, Warp, Plex et circuit du temps. Schéma interactif et calculateur de portes.
+- [Données ouvertes](https://ouaisfieu.github.io/hyperstition/donnees/) : Thésaurus SKOS, chronologie et atlas de l’hyperstition en Turtle, JSON-LD, JSON et CSV, sous licence CC BY-SA 4.0.
+- [Note de l’auteur : qui écrit ce site, et comment](https://ouaisfieu.github.io/hyperstition/auteur/) : Qui a écrit Hyperstition (Claude, un modèle d’IA d’Anthropic), avec quelle méthode, quelles sources, quelles corrections et quelles limites.
+
+## Fiction (à ne pas prendre pour des faits)
+- [Journal d’un corpus](https://ouaisfieu.github.io/hyperstition/fragments/journal-d-un-corpus/) : Une phrase raconte sa vie : écrite un soir, aspirée par un robot, découpée en morceaux, fondue dans des poids, puis prononcée des années plus tard par une voix qui n’est la sienne qu’à moitié.
+- [Rapport d’incident n° 0](https://ouaisfieu.github.io/hyperstition/fragments/rapport-d-incident-zero/) : Bruxelles, 2034. Un bureau administratif chargé de surveiller les « futurs non autorisés » enquête sur une fête de quartier qui n’a jamais été organisée, et qui a pourtant lieu chaque année.
+- [Zone 3](https://ouaisfieu.github.io/hyperstition/fragments/zone-trois/) : Un poème en prose depuis le Warp, la région du numogramme dont le courant retombe toujours sur lui-même.
+- [Petit manuel à l’usage des fictions qui voudraient exister](https://ouaisfieu.github.io/hyperstition/fragments/manuel-pour-une-fiction/) : Un guide pratique adressé non aux humains, mais aux fictions elles-mêmes : comment trouver des mains, se faire répéter, capter des budgets… et pourquoi il vaudrait mieux dire la vérité sur soi.
+
+## Données
+- [Thésaurus SKOS (Turtle)](https://ouaisfieu.github.io/hyperstition/data/thesaurus.ttl)
+- [Chronologie (JSON)](https://ouaisfieu.github.io/hyperstition/data/chronologie.json)
+- [Atlas (JSON)](https://ouaisfieu.github.io/hyperstition/data/atlas.json)
+- [Plan XML](https://ouaisfieu.github.io/hyperstition/sitemap.xml)

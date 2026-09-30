@@ -1,0 +1,5 @@
+# Hyperstition — tout est public, rien n’est caché.
+User-agent: *
+Allow: /
+
+Sitemap: https://ouaisfieu.github.io/hyperstition/sitemap.xml
